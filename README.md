@@ -1,2 +1,2 @@
-2018년 2학기 디지털영상처리 과제 @전남대학교 전자공학과
+2018-2 digital image processing assignments @Chonnam University
 
